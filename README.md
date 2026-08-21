@@ -21,4 +21,5 @@ A simple air quality monitoring project using an ESP32 microcontroller and a BME
 🔜 Next: publish data over WiFi via MQTT
 
 ## Photos
-(add your breadboard photo and Serial Monitor screenshot here)
+![Breadboard setup](breadboard-photo.jpg)
+![Serial Monitor output](serial-monitor-output.png)
